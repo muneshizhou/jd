@@ -13,7 +13,7 @@ crazyJoy任务
 
 ================Loon==============
 [Script]
-cron "10 7 * * *" script-path=https://gitee.com/lxk0301/jd_scripts/raw/master/jd_crazy_joy.js,tag=crazyJoy任务
+cron "10 7 * * *" script-path=https://github.com/muneshizhou/jd/blob/main/jd_crazy_joy.js,tag=crazyJoy任务
 
 ===============Surge=================
 crazyJoy任务 = type=cron,cronexp="10 7 * * *",wake-system=1,timeout=3600,script-path=https://gitee.com/lxk0301/jd_scripts/raw/master/jd_crazy_joy.js
